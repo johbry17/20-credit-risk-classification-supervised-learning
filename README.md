@@ -1,4 +1,4 @@
-# Module 21 Challenge, 7 November 2023, Credit Risk Analysis Using Supervised Learning
+# Module 20 Challenge, 7 November 2023, Credit Risk Analysis Using Supervised Learning
 
 ## Overview of the Analysis
 
